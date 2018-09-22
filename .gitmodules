@@ -1,3 +1,6 @@
 [submodule "random_picker"]
 	path = random_picker
 	url = https://github.com/ravines523/random_picker.git
+[submodule "data_packer"]
+	path = data_packer
+	url = https://github.com/ravines523/data_packer.git
