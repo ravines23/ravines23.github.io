@@ -4,3 +4,6 @@
 [submodule "data_packer"]
 	path = data_packer
 	url = https://github.com/ravines523/data_packer.git
+[submodule "ecdh_aes"]
+	path = ecdh_aes
+	url = https://github.com/ravines523/ecdh_aes.git
