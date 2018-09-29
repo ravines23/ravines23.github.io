@@ -1,9 +1,9 @@
 [submodule "random_picker"]
 	path = random_picker
-	url = https://github.com/ravines523/random_picker.git
+	url = https://github.com/ravines23/random_picker.git
 [submodule "data_packer"]
 	path = data_packer
-	url = https://github.com/ravines523/data_packer.git
+	url = https://github.com/ravines23/data_packer.git
 [submodule "ecdh_aes"]
 	path = ecdh_aes
-	url = https://github.com/ravines523/ecdh_aes.git
+	url = https://github.com/ravines23/ecdh_aes.git
